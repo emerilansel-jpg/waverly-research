@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cms/
+
+Sitemap: https://waverlyresearch.com/sitemap-index.xml
+LLMs-Context: https://waverlyresearch.com/llms.txt
