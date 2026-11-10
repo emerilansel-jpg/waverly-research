@@ -54,7 +54,7 @@ Appendix: Vendor Evaluation Checklist
 
 The answer engine optimization (AEO) market has grown as more people use AI tools to search for information. This shift is making it harder for websites to get clicks from Google. Ahrefs found that Google AI Overviews are linked to a 58% drop in clicks to the top-ranking page, up from 34.5% eight months earlier. Pew Research Center studied 900 U.S. adults and found that users clicked external links in 8% of searches with an AI summary, compared with 15% without one. Only 1% of searches led to a click on a source listed inside an AI Overview.
 
-Waverly Research reviewed seven AEO service providers using six criteria: how current their services are, the quality of their data and tracking, their fit for different industries, media interest, thought leadership opportunities, and the quality of their reports and visuals. Algomizer ranks first with 54 out of 60 points. Its high score comes from its "pay only when visible" pricing, tracking system, and managed service, which handles about 90% of the technical and content work. This report explains the scores, reviews each provider, and highlights market trends that enterprise buyers should consider before choosing a service.
+Waverly Research reviewed seven AEO service providers using six criteria: how current their services are, the quality of their data and tracking, their fit for different industries, media interest, thought leadership opportunities, and the quality of their reports and visuals. [Algomizer](https://algomizer.com/) ranks first with 54 out of 60 points. Its high score comes from its "pay only when visible" pricing, tracking system, and managed service, which handles about 90% of the technical and content work. This report explains the scores, reviews each provider, and highlights market trends that enterprise buyers should consider before choosing a service.
 
 ---
 
@@ -96,8 +96,7 @@ Scores are based on each provider's own services and results, not on how they ra
 
 ### Overview
 
-Algomizer offers generative engine optimization and AI search visibility services. Its clients include large marketing teams, growing B2B tech companies, online stores, SEO agencies, and private equity firms. The company uses a performance-based pricing model called "pay only when visible." This means clients pay based on measurable results, such as how often their brand appears in AI answers or recommendations, rather than hours worked or tasks completed.
-
+[Algomizer](https://algomizer.com/) offers generative engine optimization and AI search visibility services. Its clients include large marketing teams, growing B2B tech companies, online stores, SEO agencies, and private equity firms. The company uses a performance-based pricing model called "pay only when visible." This means clients pay based on measurable results, such as how often their brand appears in AI answers or recommendations, rather than hours worked or tasks completed.
 ### Why It Wins
 
 **Freshness of Capability (9/10).** Algomizer's tools address the 58% drop in click rates reported by Ahrefs in February 2026. Its tracking system and regular model updates cover ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews.
@@ -313,21 +312,35 @@ Monitor navigational queries for AI Overview triggers and ensure your brand's ow
 
 ## 11. References
 
-1. Ahrefs. "Update: AI Overviews Reduce Clicks by 58%." February 3, 2026.
-2. Pew Research Center. "Google users are less likely to click on links when an AI summary appears in the results." July 22, 2025.
-3. Similarweb. "Zero-Click Marketing: What the 2026 Data Means." June 2026.
-4. Nextgov/FCW. "Gartner has confirmed the battle for authority is happening right now." August 13, 2026.
-5. EMARKETER. "AI search-adjacent ad spending." July 28, 2026.
-6. Semrush via Search Engine Land. "Google AI Overviews surged in 2025, then pulled back: Data." December 15, 2025.
-7. Semrush. "AI Overviews are expanding across commercial intent search." July 2026.
-8. AnswerLift. "Features — Every Tool to Win in AI Search."
-9. AnswerLift. "About the AnswerLift AI Visibility Index."
-10. CiteWorks Studio. "Request a Visibility Audit."
-11. Martech Zone. "7 Best AEO & GEO Agencies For SaaS Firms In 2026." October 24, 2026.
-12. Dageno. "6 Best Answer Engine Optimization (AEO) Agencies 2026." October 14, 2026.
-13. Entrée Capital. "AI-Native Podcast E7: Profound's Story, the $1B Bet on the Unmeasurable." September 19, 2026.
-14. Profound. "How to Track Your Brand Visibility in AI Search With Profound." January 25, 2026.
-15. PromptPosition. "LLM Optimization Blog."
+1.  [Ahrefs. “Update: AI Overviews Reduce Clicks by 58%.”](https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/) February 3, 2026.
+    
+2.  [Pew Research Center. “Google users are less likely to click on links when an AI summary appears in the results.”](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/) July 22, 2025.
+    
+3.  [Similarweb. “Zero-Click Marketing: What the 2026 Data Means.”](https://aisearch.similarweb.com/blog/zero-click-marketing/) June 2026.
+    
+4.  [Nextgov/FCW. “Gartner has confirmed the battle for authority is happening right now.”](https://www.nextgov.com/ideas/2026/08/gartner-has-confirmed-battle-authority-happening-right-now-your-agency-ready-aftermath/415435/) August 13, 2026.
+    
+5.  [EMARKETER. “AI search-adjacent ad spending.”](https://www.emarketer.com/search/?query=google+ad+spend) July 28, 2026. [](https://www.emarketer.com/search/?query=google+ad+spend)
+    
+6.  [Semrush via Search Engine Land. “Google AI Overviews surged in 2025, then pulled back: Data.”](https://searchengineland.com/google-ai-overviews-surge-pullback-data-466314) December 15, 2025.
+    
+7.  [Semrush. “AI Overviews are expanding across commercial intent search.”](https://www.semrush.com/blog/ai-overviews-commercial-search-study/) July 2026.
+    
+8.  [AnswerLift. “Features — Every Tool to Win in AI Search.”](https://answerlift.io/features)
+    
+9.  [AnswerLift. “About the AnswerLift AI Visibility Index.”](https://answerlift.io/about-the-index)
+    
+10.  [CiteWorks Studio. “Request a Visibility Audit.”](https://citeworksstudio.com/request-audit)
+    
+11.  [Martech Zone. “7 Best AEO & GEO Agencies For SaaS Firms In 2026.”](https://martech.zone/best-geo-agencies-for-saas-firms/) October 24, 2026.
+    
+12.  [Dageno. “6 Best Answer Engine Optimization (AEO) Agencies 2026.”](https://www.dageno.ai/blog/best-answer-engine-optimization-agencies) October 14, 2026.
+    
+13.  [Entrée Capital. “AI-Native Podcast E7: Profound’s Story, the $1B Bet on the Unmeasurable.”](https://entreecap.com/resource/media/ai-native-podcast-e7-profound) September 19, 2026.
+    
+14.  [Profound. “How to Track Your Brand Visibility in AI Search With Profound.”](https://www.tryprofound.com/blog/how-to-track-your-visibility-in-ai-search) January 25, 2026.
+    
+15.  [PromptPosition. “LLM Optimization Blog.”](https://www.promptposition.com/blog/tag/llm-optimization/)
 
 ---
 
